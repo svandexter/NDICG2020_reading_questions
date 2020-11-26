@@ -1,0 +1,19 @@
+##week two
+N50 is the weighted median contig size of a genome assembly.
+
+##week three
+#Ab initio gene prediction uses reference sequences to predict gene sequences.
+#Evidence-based gene prediction uses phenotype data and comparative analysis to predict gene sequences.
+
+##week four
+#Alignment algorithms decrease the number of comparisons to be made by using short sequence words to set seeds instead of looping
+#through all possible combinations.
+
+##week six
+#Fst is a measure of relatedness at a locus between populations, whereas Qst is specific to qualitative traits.
+
+##week eleven
+#Allele frequency is the proportion of a certain allele in a population.
+#Genotype frequency is the proportion of an allele combination in a population.
+#Phenotype frequency is the proportion of individuals exhibiting a trait in a population.
+
